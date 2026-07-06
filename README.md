@@ -1,9 +1,3 @@
-# 👋 Hi, I’m Henry
-
-I work on small engineering and research-style projects, focusing on data analysis, simulations, and experimental modeling. I'm driven by understanding how models behave, testing their assumptions, and finding out where they break.
-
----
-
 ## 🧠 Background
 - **M.Sc. in Materials Science for Energy & Nanotechnology** — University of Oslo  
 - **B.Sc. in Mechanical Engineering (Mechatronics)** — Oslo Metropolitan University *(In progress)* ---
